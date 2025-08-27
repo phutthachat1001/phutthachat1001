@@ -1,6 +1,4 @@
-# 📈 AI Daily Stock Insight
-
-## 💼 Author
+## 💼 Profile
 **Phutthachat Ninnarat**  
 _A data-driven analyst building AI-powered pipelines, automation workflows, and interactive business dashboards using Python, Power Platform, and Generative AI._
 
