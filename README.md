@@ -12,7 +12,7 @@ An automated AI-powered stock recommendation system that integrates historical s
 - Collects top news headlines using Google News RSS
 - Uses Gemini 2.5 API to analyze news impact and generate recommendation JSON
 - Produces Markdown reports with AI explanations and optional price chart images
-- Exports results to Google Sheets (optional)
+- Exports results to Google Sheets
 - YAML config for customizable tickers, timeframes, and output behavior
 
 ### 📁 Outputs
